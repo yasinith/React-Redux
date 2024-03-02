@@ -9,4 +9,3 @@ export const ActionTypes1 = {
   REMOVE_SELECTED_PRODUCT: "REMOVE_SELECTED_PRODUCT",
 };
 
-navigator
