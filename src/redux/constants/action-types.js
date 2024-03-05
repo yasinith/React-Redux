@@ -4,4 +4,4 @@ export const ActionTypes = {
   REMOVE_SELECTED_PRODUCT: "REMOVE_SELECTED_PRODUCT",
 };
 
-
+JSON
