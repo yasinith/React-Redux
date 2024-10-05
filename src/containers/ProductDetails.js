@@ -49,7 +49,7 @@ const ProductDetails = () => {
                   <div className="hidden content">
                     <i className="shop icon"></i>
                   </div>
-                  <div className="visible content">Add to Cart</div>
+                  <div className="visible content">Add to the Cart</div>
                 </div>
               </div>
             </div>
